@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "29ab11c8a59dfed21a4619e81ac27a1b4e9eae40",
+    "author": "Robin <Robinlovelace@users.noreply.github.com>",
+    "time": "2021-06-02 22:38:17",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #201 from wengraf/master\n\nTwo small updates"
+  },
+  "remote": "https://github.com/ropensci/stats19",
+  "pkg": "stats19"
+}
