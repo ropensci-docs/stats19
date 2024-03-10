@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6b74be023f114b1da58517bcb97b1d2c55765e21",
+    "author": "Robin Lovelace <Robinlovelace@users.noreply.github.com>",
+    "time": "2024-02-09 15:00:30",
+    "files": 14,
+    "merge": true,
+    "message": "Merge pull request #233 from ropensci/232-docs-a-bit-outdated\n\n232 docs a bit outdated"
+  },
+  "repo": "https://github.com/ropensci/stats19",
+  "pkg": "stats19"
+}

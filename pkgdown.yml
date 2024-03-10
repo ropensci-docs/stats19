@@ -1,0 +1,14 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  blog: blog.html
+  stats19-training-setup: stats19-training-setup.html
+  stats19-training: stats19-training.html
+  stats19-vehicles: stats19-vehicles.html
+  stats19: stats19.html
+last_built: 2024-03-10T07:57Z
+urls:
+  reference: https://docs.ropensci.org/stats19/reference
+  article: https://docs.ropensci.org/stats19/articles
+
