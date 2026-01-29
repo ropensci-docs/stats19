@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5426e303417f7c2cbc9000df3b39ec54e32da9df",
+    "author": "Blaise Kelly <blaise@kello.co.uk>",
+    "time": "2026-01-20T16:22:56Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #295 from BlaiseKelly/271-open-data-spec-changes\n\n271 open data spec changes"
+  },
+  "repo": "https://github.com/ropensci/stats19",
+  "pkg": "stats19",
+  "time": "2026-01-29T14:06:02Z"
+}
